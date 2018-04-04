@@ -6,3 +6,5 @@ We have a lot of commits because our devs are amazing and that!
 Not adding any code.
 
 No blockchain.
+
+Less legit than horse.
